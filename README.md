@@ -76,7 +76,7 @@ In addition to `data`, your slam function will also take in:
 
 1. Clone the repository, and navigate to the downloaded folder.
 ```
-git clone https://github.com/parvez218/Project-Landmark-Detection-Tracking-SLAM-.git
+git clone https://github.com/parvez218/Landmark-Detection-Robot-Tracking-SLAM-.git
 cd Project:Landmark Detection & Robot Tracking ( SLAM )
 ```
 
